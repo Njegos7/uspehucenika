@@ -27,15 +27,15 @@
 <table align="center" class="tabela">
         <tr>
             <th>Ime učenika</th>
-            <td>Nikola</td>
+            <td>Njegos</td>
         </tr>
         <tr>
             <th>Prezime učenika</th>
-            <td>Ristić</td>
+            <td>Ratković</td>
         </tr>
         <tr>
             <th>E-mail adresa</th>
-            <td>niris022@gmail.com</td>
+            <td>njegosratkovic4@gmail.com</td>
         </tr>
         <tr>
             <th>Naziv aplikacije</th>
