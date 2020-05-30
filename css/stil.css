@@ -1,0 +1,34 @@
+nav li{
+	display: inline;
+}
+nav{
+	background-color: #0ab;
+	padding: 30px 20px;
+}
+nav a, nav span{
+	font-family: 'Sen', sans-serif;
+    font-size: 24px;
+	font-weight: bold;
+	padding: 30px 60px;
+}
+
+nav a{
+	text-decoration: none;
+	color: black;
+}
+
+nav a:hover{
+    background-color: #0ed;
+    color: #fff;
+    transition: .5s ease-in-out;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Sen', sans-serif;
+}
+
+.table{
+    padding: 40px 40px;
+    max-width: 70%;
+    position: relative;
+}
